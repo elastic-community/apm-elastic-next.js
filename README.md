@@ -117,7 +117,11 @@ const apm = initApm({
 })
 export default apm
 ```
-
+---
+Authors:
+  - Manuel Alba [https://github.com/elmalba]
+  - Isac Silva [https://github.com/isilva]
+---
 
 ## License
 
