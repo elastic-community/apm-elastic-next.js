@@ -13,3 +13,4 @@ var apm = initApm({
   // Set the service environment
   environment: 'development'
 })
+export default apm;
