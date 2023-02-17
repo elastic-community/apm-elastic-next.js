@@ -5,7 +5,7 @@ This application was presented at the JSConf Chile workshop in 2023. We introduc
 
 Let's prepare the project by running the following commands:
 
-```console
+```sh
 npm install
 npx prisma generate
 npm run dev
@@ -66,7 +66,7 @@ Esta aplicación fue presentada en el workshop jsconf chile 2023 presentamos una
 
 Preparemos el proyecto para lo que debes ejecutar los siguientes comandos:
 
-```console
+```sh
 npm install
 npx prisma generate
 npm run dev
