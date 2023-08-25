@@ -15,7 +15,6 @@ const prismaDB = new PrismaClient({
 
 prismaDB.$on('query', async (request) => {
 
-    console.log("REE",request)
     const name = request.query
     const type = 'db';
     const subType = 'prisma';
