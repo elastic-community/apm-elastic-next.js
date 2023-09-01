@@ -67,7 +67,7 @@ export default  function Regions() {
         </h1>
 
         <p className={styles.description}>
-          Creado para la <code>JsConf 2023</code>
+          Bienvenidos a la <code>9 Punto 5</code>
         </p>
 
         <div className={styles.grid}>
